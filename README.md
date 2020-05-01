@@ -1,3 +1,2 @@
 # web-demo
-demo files for teaching my web class online
-
+class web stuff
